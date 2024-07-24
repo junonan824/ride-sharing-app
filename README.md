@@ -75,10 +75,13 @@ Trips
 	•	GET /trips/average-distance: Get average trip distance per driver
 	•	GET /drivers/nearby: Get nearby drivers
 
-License
+## Conclusion
 
-This project is licensed under the MIT License.
+Thank you for using our ride-sharing app! We hope it meets your needs and provides a seamless experience. If you have any feedback, suggestions, or issues, please feel free to open an issue on our GitHub repository.
 
-### Conclusion
+Happy riding!
 
-By following this guide, you will set up a powerful and efficient backend for your real-time ride-sharing application. MongoDB's flexibility and performance, combined with Python and Flask, provide a robust solution for handling dynamic and large-scale data. Don't forget to refer to the [official MongoDB documentation](https://docs.mongodb.com/) for more information and best practices. Additionally, you can explore more about integrating large language models with databases in my post on [LLMs with Database Integrations](https://allaboutwebdev.com/llms/).
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
