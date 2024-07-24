@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/.pytest_cache/v" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/include" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip-24.1.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip/_internal/metadata/importlib" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/distro" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/platformdirs" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/pygments" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/pyproject_hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/rich" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/truststore" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/site-packages/python_dotenv-1.0.1.dist-info" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
